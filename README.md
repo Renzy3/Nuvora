@@ -54,8 +54,10 @@ The app is deployed on **Vercel**, which automatically fetches updates from the 
 
 Contributions are welcome! Please fork the repository, make changes, and submit a pull request. Ensure any new media files are committed directly in the `public` folder, not via Git LFS, to avoid deployment issues.
 
-## License
+## For more Info
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is created by Shiryuu. 
+
+If you want to  create new one by your own just watch this (https://youtu.be/zA9r5zTllx4?si=8xJ7bEtMVpJxr52C)
 
 Also credit to JS Mastery
