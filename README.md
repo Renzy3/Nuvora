@@ -29,18 +29,6 @@ Live deployment: [Nuvora on Vercel](https://nuvora-two.vercel.app)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 - **Deployment:** [Vercel](https://vercel.com/)
 
-## Project Structure
-
-Nuvora/
-├─ public/          # Images, audio, fonts, and video assets
-├─ src/             # React components and app logic
-├─ index.html       # Main HTML file
-├─ package.json     # Project dependencies
-├─ tailwind.config.js
-├─ vite.config.js
-└─ README.md
-
-
 ## Setup Instructions
 
 1. Clone the repository:
