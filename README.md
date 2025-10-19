@@ -6,9 +6,11 @@ Nuvora is a React + Vite-powered web application that immerses users into a rich
 
 Live deployment: [Nuvora on Vercel](https://nuvora-two.vercel.app)
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0fa59dd3-8372-43ea-bed6-5dab03fa0be3" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0dea7f24-2f1e-430a-ac88-4029acdc366c" />
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e7a79791-a9cc-4528-a0df-81bdbf36b1c7" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/28dcf0b0-44e5-463e-adcc-fe788feb3ee2" />
+
 
 
 ## Features
