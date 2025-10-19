@@ -69,6 +69,3 @@ Contributions are welcome! Please fork the repository, make changes, and submit 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Also credit to JS Mastery
-
-Do you want me to do that next?
-```
