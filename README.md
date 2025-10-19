@@ -1,16 +1,74 @@
-# React + Vite
+# Nuvora
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Nuvora is a React + Vite-powered web application that immerses users into a rich **anime-inspired experience**, combining dynamic visuals, multimedia content, and interactive navigation. The platform showcases an anime ecosystem with trailers, promotional content, and a futuristic web interface.
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live deployment: [Nuvora on Vercel](https://nuvora-two.vercel.app)
 
-## React Compiler
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0fa59dd3-8372-43ea-bed6-5dab03fa0be3" />
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e7a79791-a9cc-4528-a0df-81bdbf36b1c7" />
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- **Anime-Centric Design:** Stunning animated visuals and themed UI.
+- **Media Integration:** Supports images, MP3, MP4, and other multimedia assets.
+- **Responsive Layout:** Works on desktop and mobile devices.
+- **Interactive Navigation:** Menu links for Nexus, Vault, Prologue, About, and Contact pages.
+- **Trailer Playback:** Users can watch anime trailers directly on the homepage.
+- **Public Assets Folder:** Fonts, images, and audio files are served from the `public` directory for easy access.
+
+## Tech Stack
+
+- **Frontend Framework:** [React](https://reactjs.org/)
+- **Build Tool:** [Vite](https://vitejs.dev/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Deployment:** [Vercel](https://vercel.com/)
+
+## Project Structure
+
+Nuvora/
+├─ public/          # Images, audio, fonts, and video assets
+├─ src/             # React components and app logic
+├─ index.html       # Main HTML file
+├─ package.json     # Project dependencies
+├─ tailwind.config.js
+├─ vite.config.js
+└─ README.md
+
+
+## Setup Instructions
+
+1. Clone the repository:
+   git clone https://github.com/Renzy3/Nuvora.git
+   cd Nuvora
+
+2. Install dependencies:
+3. 
+   npm install
+
+4. Run the development server:
+
+   npm run dev
+
+
+5. Open your browser at `http://localhost:5173` to view the application.
+
+## Deployment
+
+The app is deployed on **Vercel**, which automatically fetches updates from the GitHub repository. Ensure all media files in the `public` folder are added properly, as Vercel does not fetch Git LFS pointers by default.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository, make changes, and submit a pull request. Ensure any new media files are committed directly in the `public` folder, not via Git LFS, to avoid deployment issues.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+Also credit to JS Mastery
+
+Do you want me to do that next?
+```
